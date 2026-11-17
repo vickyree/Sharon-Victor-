@@ -1,0 +1,167 @@
+{
+  "couple": "Sharon & Victor",
+  "wedding_date": "To be confirmed",
+  "venue": "Kebirigo Main Altar",
+  "target": 320000,
+  "reported_total": 111200,
+  "donors": [
+    {
+      "name": "Bridegroom's Family",
+      "amount": 50000
+    },
+    {
+      "name": "David Openda",
+      "amount": 17000
+    },
+    {
+      "name": "Reuben Bosire",
+      "amount": 3500
+    },
+    {
+      "name": "Leonidah Mariaria",
+      "amount": 2000
+    },
+    {
+      "name": "Evans Kibore",
+      "amount": 7000
+    },
+    {
+      "name": "Bro. Dominic",
+      "amount": 1000
+    },
+    {
+      "name": "Overseer Robert Nyamweya",
+      "amount": 1000
+    },
+    {
+      "name": "Gabriel Kigen",
+      "amount": 1000
+    },
+    {
+      "name": "Bishop Hesbon",
+      "amount": 1000
+    },
+    {
+      "name": "Bishop Reuben",
+      "amount": 500
+    },
+    {
+      "name": "Dorcas Michira",
+      "amount": 1000
+    },
+    {
+      "name": "John Bosire",
+      "amount": 1000
+    },
+    {
+      "name": "Julian Omwoyo",
+      "amount": 500
+    },
+    {
+      "name": "Lydia (Mama SDAB Mokaya)",
+      "amount": 2000
+    },
+    {
+      "name": "Bishop Ositu",
+      "amount": 300
+    },
+    {
+      "name": "Damaris Michira",
+      "amount": 1000
+    },
+    {
+      "name": "Vincent Nyachae",
+      "amount": 500
+    },
+    {
+      "name": "Benard Mongeri",
+      "amount": 1000
+    },
+    {
+      "name": "Overseer Doris",
+      "amount": 1000
+    },
+    {
+      "name": "Overseer Selline",
+      "amount": 2000
+    },
+    {
+      "name": "Margaret Kibore",
+      "amount": 1000
+    },
+    {
+      "name": "Abraham Chweya",
+      "amount": 500
+    },
+    {
+      "name": "Dancan Nyangoya",
+      "amount": 1000
+    },
+    {
+      "name": "Peninah Mongare",
+      "amount": 200
+    },
+    {
+      "name": "Robert Nyambega",
+      "amount": 500
+    },
+    {
+      "name": "Jabez Mokua",
+      "amount": 1500
+    },
+    {
+      "name": "Pst. George Motanya",
+      "amount": 500
+    },
+    {
+      "name": "Wilson Openda",
+      "amount": 2000
+    },
+    {
+      "name": "Andrew Oyaro",
+      "amount": 3000
+    },
+    {
+      "name": "Amos Guto",
+      "amount": 1000
+    },
+    {
+      "name": "Celestine Cheptoo",
+      "amount": 1000
+    },
+    {
+      "name": "Samuel Mitema",
+      "amount": 500
+    },
+    {
+      "name": "Mama D.A.B. Jared",
+      "amount": 500
+    },
+    {
+      "name": "Wilson Ochieng",
+      "amount": 3000
+    },
+    {
+      "name": "Enock Osero",
+      "amount": 2000
+    },
+    {
+      "name": "Peter Maoga",
+      "amount": 1000
+    }
+  ],
+  "treasurer": {
+    "name": "Charles Nyaanga",
+    "contact": "0180508101"
+  },
+  "announcements": [
+    {
+      "title": "A date to look forward to",
+      "message": "The wedding date will be announced once confirmed. Please check back for updates."
+    },
+    {
+      "title": "A heartfelt thank you",
+      "message": "We are deeply grateful for every gift, pledge, prayer and word of encouragement. Your kindness is helping make this celebration possible."
+    }
+  ]
+}
